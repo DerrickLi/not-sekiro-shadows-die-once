@@ -1,0 +1,477 @@
+fileFormatVersion: 2
+guid: 6c4b66cd955c74949822657e3f98ee83
+TextureImporter:
+  fileIDToRecycleName:
+    21300000: right bicep
+    21300002: ribbon
+    21300004: waist
+    21300006: right thigh
+    21300008: left thigh
+    21300010: neck
+    21300012: right forearm
+    21300014: left bicep
+    21300016: left hand
+    21300018: right hand
+    21300020: right calf
+    21300022: head
+    21300024: left calf
+    21300026: left forearm
+    21300028: sword
+    21300030: chest
+    21300032: right foot
+    21300034: left foot
+  externalObjects: {}
+  serializedVersion: 7
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: -1
+    aniso: -1
+    mipBias: -100
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  platformSettings:
+  - serializedVersion: 2
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+  - serializedVersion: 2
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: right bicep
+      rect:
+        serializedVersion: 2
+        x: 21
+        y: 224
+        width: 31
+        height: 44
+      alignment: 9
+      pivot: {x: 0.6691278, y: 0.7553392}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 637a24160fbe52947bc94caed50ae295
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ribbon
+      rect:
+        serializedVersion: 2
+        x: 82
+        y: 162
+        width: 63
+        height: 109
+      alignment: 9
+      pivot: {x: 0.6664432, y: 0.96726334}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0faa4084888d5144e99eabde600551f3
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: waist
+      rect:
+        serializedVersion: 2
+        x: 180
+        y: 214
+        width: 45
+        height: 50
+      alignment: 9
+      pivot: {x: 0.5166443, y: 0.6348202}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 75944aa485260d440af31b2811850c48
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: right thigh
+      rect:
+        serializedVersion: 2
+        x: 254
+        y: 196
+        width: 38
+        height: 69
+      alignment: 9
+      pivot: {x: 0.5000008, y: 0.7713751}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 554e85f3f0bbd19459917c0c32d3b2db
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: left thigh
+      rect:
+        serializedVersion: 2
+        x: 322
+        y: 200
+        width: 38
+        height: 64
+      alignment: 9
+      pivot: {x: 0.38173795, y: 0.75746703}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b4facea85ff93ff498c3940b27420911
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: neck
+      rect:
+        serializedVersion: 2
+        x: 391
+        y: 235
+        width: 19
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 305ad16e18740ed439791ede3a01b430
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: right forearm
+      rect:
+        serializedVersion: 2
+        x: 24
+        y: 168
+        width: 25
+        height: 42
+      alignment: 9
+      pivot: {x: 0.32024154, y: 0.78533137}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b3733abe0e454684f86dbe1a275bf77f
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: left bicep
+      rect:
+        serializedVersion: 2
+        x: 390
+        y: 168
+        width: 23
+        height: 42
+      alignment: 9
+      pivot: {x: 0.36974037, y: 0.7674982}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4a16006cc27608743809af1ebe581553
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: left hand
+      rect:
+        serializedVersion: 2
+        x: 432
+        y: 206
+        width: 23
+        height: 27
+      alignment: 9
+      pivot: {x: 0.27204564, y: 0.7774053}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0b4c0877e76b55249ac80e9f3533e374
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: right hand
+      rect:
+        serializedVersion: 2
+        x: 29
+        y: 121
+        width: 26
+        height: 31
+      alignment: 9
+      pivot: {x: 0.24073277, y: 0.76577365}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 197b3a8492b7bd84d9921ceaf0629db7
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: right calf
+      rect:
+        serializedVersion: 2
+        x: 173
+        y: 101
+        width: 54
+        height: 89
+      alignment: 9
+      pivot: {x: 0.65257317, y: 0.82821107}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 43ac8a4d4c42f3144ac6e3c7038f9193
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: head
+      rect:
+        serializedVersion: 2
+        x: 260
+        y: 109
+        width: 37
+        height: 60
+      alignment: 9
+      pivot: {x: 0.33805558, y: 0.4625506}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a7e34bd61fe561b4ca00e10b15f75d1d
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: left calf
+      rect:
+        serializedVersion: 2
+        x: 327
+        y: 94
+        width: 49
+        height: 86
+      alignment: 9
+      pivot: {x: 0.4541433, y: 0.822242}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b67048e8b7077b540ac6f0275077b250
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: left forearm
+      rect:
+        serializedVersion: 2
+        x: 412
+        y: 110
+        width: 26
+        height: 39
+      alignment: 9
+      pivot: {x: 0.32715666, y: 0.78807616}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0e1912c48c779b44d816b309aa499c1d
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sword
+      rect:
+        serializedVersion: 2
+        x: 14
+        y: 26
+        width: 135
+        height: 72
+      alignment: 9
+      pivot: {x: 0.82179016, y: 0.7912776}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3ae7bbeb4e7748e42a30a1463822d81c
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: chest
+      rect:
+        serializedVersion: 2
+        x: 253
+        y: 28
+        width: 45
+        height: 47
+      alignment: 9
+      pivot: {x: 0.4833557, y: 0.4681292}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ae8be4189af9cdf4780610448c62600b
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: right foot
+      rect:
+        serializedVersion: 2
+        x: 330
+        y: 25
+        width: 45
+        height: 47
+      alignment: 9
+      pivot: {x: 0.40013427, y: 0.8187213}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 007324e8dd9dd264b8ed7f75e0942570
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: left foot
+      rect:
+        serializedVersion: 2
+        x: 408
+        y: 24
+        width: 43
+        height: 43
+      alignment: 9
+      pivot: {x: 0.37807164, y: 0.8135328}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c9ee95d008091cb44ab7f316e7b33dfd
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 07b63d041fa69b649be3a49708e2d1ac
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

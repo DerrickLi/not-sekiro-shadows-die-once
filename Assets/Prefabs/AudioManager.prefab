@@ -1,0 +1,87 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1 &5266997069279501774
+GameObject:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  serializedVersion: 6
+  m_Component:
+  - component: {fileID: 5266997069279501760}
+  - component: {fileID: 5266997069279501775}
+  m_Layer: 0
+  m_Name: AudioManager
+  m_TagString: Untagged
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 1
+--- !u!4 &5266997069279501760
+Transform:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 5266997069279501774}
+  m_LocalRotation: {x: 0, y: 0, z: 0, w: 1}
+  m_LocalPosition: {x: -2.533105, y: -3.1071873, z: -0.89160156}
+  m_LocalScale: {x: 1, y: 1, z: 1}
+  m_Children: []
+  m_Father: {fileID: 0}
+  m_RootOrder: 0
+  m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
+--- !u!114 &5266997069279501775
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 5266997069279501774}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 5fb1139ddaf704f43997d808392f7145, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  sounds:
+  - name: PlayerMelee
+    group: Player
+    clip: {fileID: 8300000, guid: 5b602b3a3b917174789d2e8b97db2b42, type: 3}
+    source: {fileID: 0}
+  - name: PlayerDamaged
+    group: Player
+    clip: {fileID: 8300000, guid: b9abb9655f5c60f48b655ebad760cf00, type: 3}
+    source: {fileID: 0}
+  - name: PlayerRange
+    group: Player
+    clip: {fileID: 8300000, guid: 42ac6e4b99c6ef94998cb271f943b242, type: 3}
+    source: {fileID: 0}
+  - name: PlayerDeath
+    group: Player
+    clip: {fileID: 8300000, guid: cd51dc49c0ce84322ae5184ad6f159e6, type: 3}
+    source: {fileID: 0}
+  - name: EnemyDamaged
+    group: Enemy
+    clip: {fileID: 8300000, guid: 0e9c33f32210c2d45a8c4ce607cebc7e, type: 3}
+    source: {fileID: 0}
+  - name: 
+    group: 
+    clip: {fileID: 0}
+    source: {fileID: 0}
+  - name: 
+    group: 
+    clip: {fileID: 0}
+    source: {fileID: 0}
+  - name: 
+    group: 
+    clip: {fileID: 0}
+    source: {fileID: 0}
+  musicGroup: {fileID: 243076241999082084, guid: c7b2bc50abf3d2645b132df6e329f406,
+    type: 2}
+  sfxGroup: {fileID: 243508524854826534, guid: c7b2bc50abf3d2645b132df6e329f406, type: 2}
+  foleyGroup: {fileID: 243287775622720578, guid: c7b2bc50abf3d2645b132df6e329f406,
+    type: 2}
+  playerGroup: {fileID: 243039727629223868, guid: c7b2bc50abf3d2645b132df6e329f406,
+    type: 2}
+  enemyGroup: {fileID: 243749864329063116, guid: c7b2bc50abf3d2645b132df6e329f406,
+    type: 2}
